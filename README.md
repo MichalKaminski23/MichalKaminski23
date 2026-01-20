@@ -14,7 +14,7 @@
 ### 👨‍🎓 About me
 - 🎓 I am a fourth-year **Computer Science** student (Databases & Systems Engineering) at **Silesian University of Technology** (Faculty of Automatic Control, Electronics and Computer Science, Gliwice).
 - 🛠️ I build apps with **C++**, **.NET (C#)**, **Spring Boot (Java/Kotlin)**, **React** and **Android (Jetpack Compose)**.
-- 🗄️ I enjoy data work (**SQL**, DB design) and wiring apps to databases.
+- 🗄️ I enjoy data work (SQL, DB design) and wiring apps to databases.
 - 🔧 I also tinker with electronics (**Arduino Uno Rev3**).
 
 ### 🧭 Interests
@@ -42,6 +42,10 @@
 - **WebDBApp** – group project for Creating Database Applications subject.  
   _.NET Core · EF Core · SQL_  
   ➤ Repo: [Muffiko/WebDBApp](https://github.com/Muffiko/WebDBApp) 🌐
+
+  - **BKIZA_Project** – A blockchain project simulating movie rental stores.  
+  _Solidity · Hardhat · Ethereum_  
+  ➤ Repo: [BKIZA_Project](https://github.com/MichalKaminski23/BKIZA_Project) 🌐
 
 > 📌 Check pinned repositories below 👇
 
