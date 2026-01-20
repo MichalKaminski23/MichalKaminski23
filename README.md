@@ -45,7 +45,7 @@
 
 - **BKIZA_Project** – A blockchain project simulating movie rental stores.  
   _Solidity · Hardhat · Ethereum_  
-  ➤ Repo: [BKIZA_Project](https://github.com/MichalKaminski23/BKIZA_Project) 🌐
+  ➤ Repo: [BKIZA_Project](https://github.com/MichalKaminski23/BKIZA_Project) ⛓️
 
 > 📌 Check pinned repositories below 👇
 
