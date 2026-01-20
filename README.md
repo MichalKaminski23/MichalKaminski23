@@ -43,7 +43,7 @@
   _.NET Core · EF Core · SQL_  
   ➤ Repo: [Muffiko/WebDBApp](https://github.com/Muffiko/WebDBApp) 🌐
 
-  - **BKIZA_Project** – A blockchain project simulating movie rental stores.  
+- **BKIZA_Project** – A blockchain project simulating movie rental stores.  
   _Solidity · Hardhat · Ethereum_  
   ➤ Repo: [BKIZA_Project](https://github.com/MichalKaminski23/BKIZA_Project) 🌐
 
