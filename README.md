@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Michael 👋</h1>
 
 <p align="center">
-  🔭 Currently building: <b>myVFD</b><br/>
   ⚡ Tech: Kotlin · Java · C# · C++ · Python · Spring Boot · .NET · React · Android · SQL
 </p>
 
@@ -12,8 +11,8 @@
 ---
 
 ### 👨‍🎓 About me
-- 🎓 I am a fourth-year **Computer Science** student (Databases & Systems Engineering) at **Silesian University of Technology** (Faculty of Automatic Control, Electronics and Computer Science, Gliwice).
-- 🛠️ I build apps with **C++**, **.NET (C#)**, **Spring Boot (Java/Kotlin)**, **React** and **Android (Jetpack Compose)**.
+- 🎓 I'm a first-year student pursuing a master's degree in **Cybersecurity of computer systems** at the **Faculty of Automatic Control, Electronics, and Computer Science at the Silesian University of Technology**. Previously studying **Computer Science** (Databases & Systems Engineering) also at the same faculty.
+- 🛠️ I build apps with **C++**, **Python**, **.NET (C#)**, **Spring Boot (Java/Kotlin)**, **React** and **Android (Jetpack Compose)**.
 - 🗄️ I enjoy data work (SQL, DB design) and wiring apps to databases.
 - 🔧 I also tinker with electronics (**Arduino Uno Rev3**).
 
