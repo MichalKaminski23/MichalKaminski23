@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Michael 👋</h1>
 
 <p align="center">
-  ⚡ Tech: Kotlin · Java · C# · C++ · Python · Spring Boot · .NET · React · Android · SQL
+  ⚡ Tech: Kotlin · Java · C# · C++ · Python · Spring Boot · .NET · React · Android · SQL · Data · AI
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
 - 🛠️ I build apps with **C++**, **Python**, **.NET (C#)**, **Spring Boot (Java/Kotlin)**, **React** and **Android (Jetpack Compose)**.
 - 🗄️ I enjoy data work (SQL, DB design) and wiring apps to databases.
 - 🔧 I also tinker with electronics (**Arduino Uno Rev3**).
+- 🤖 I am developing towards Data & AI.
 
 ### 🧭 Interests
 💻 IT • 🔌 Electronics • 🆕 Net tech • 🧪 Software engineering • 🏃 Healthy lifestyle • 🚒 Volunteer Fire Department
